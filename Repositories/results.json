@@ -1,0 +1,23 @@
+[
+  {
+    "Username": "luka",
+    "QuizId": "1",
+    "QuizTitle": "test1",
+    "Score": 100,
+    "AttemptDate": "2024-11-29T16:00:16.9537935-06:00"
+  },
+  {
+    "Username": "luka",
+    "QuizId": "2",
+    "QuizTitle": "test2",
+    "Score": 100,
+    "AttemptDate": "2024-11-29T16:00:27.0239133-06:00"
+  },
+  {
+    "Username": "luka",
+    "QuizId": "2",
+    "QuizTitle": "test1",
+    "Score": 80,
+    "AttemptDate": "2024-11-29T16:02:10.4763691-06:00"
+  }
+]
